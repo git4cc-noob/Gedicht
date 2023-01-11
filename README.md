@@ -5,4 +5,5 @@
 
 # h3
 
-# neues Thema
+# neues Hauptthema
+Dies ist ein neues Hauptthema.
