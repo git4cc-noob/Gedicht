@@ -6,7 +6,7 @@
 ### h3
 
 # **Neues Hauptthema**
-## Dies ist ein Text.
+Dies ist ein Text.
 
   - Thema 1
   - Thema 2
